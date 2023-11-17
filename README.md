@@ -35,7 +35,29 @@ All the data will pe persistent and is stored in the awazon cloud.
 ## Screenshots
 
 ### Home Page
-![HomePage screenshot](/screenshots/HomePage.png)
+![HomePage](https://github.com/yashpd6634/Yelpcamp/assets/79068825/9d6e7b40-a404-4fa1-be43-3f1a4982f1f8)
+
+### Register Page
+![Registeration Page](https://github.com/yashpd6634/Yelpcamp/assets/79068825/2b58ac55-71bd-4441-bd5b-935f87691181)
+
+### Campground-list page
+![Campground-list page](https://github.com/yashpd6634/Yelpcamp/assets/79068825/c5ba18f2-ad63-466a-a1b5-469931a70faf)
+
+### Non-logged-in Campgroung-view Page
+![Non-logged-in Campgroung-view Page](https://github.com/yashpd6634/Yelpcamp/assets/79068825/42f91a79-8338-4567-8f6d-fc654fcc2d7a)
+
+### Creator Campgroung-view Page
+![Creator Campgroung-view Page](https://github.com/yashpd6634/Yelpcamp/assets/79068825/2c5d2d03-4c8f-4e06-8ca6-820d320243da)
+
+### Add New Compground Page
+![Add New Compground Page](https://github.com/yashpd6634/Yelpcamp/assets/79068825/3dec180c-6308-4dfd-aeaa-7b09fed29d30)
+
+### Edit Compground Page
+![Edit Compground Page](https://github.com/yashpd6634/Yelpcamp/assets/79068825/242ad75d-8249-43d8-a94d-0f1bff65b0cb)
+
+
+
+
 
 ## Run it locally
 1. Install ```mongodb```
