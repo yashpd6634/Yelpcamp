@@ -34,6 +34,10 @@ All the data will pe persistent and is stored in the awazon cloud.
 
 ## Screenshots
 
+### Home Page
+![App Screenshot](https://github.com/yashpd6634/Yelpcamp/blob/master/screenshots/HomePage.png?raw=true)
+
+
 ## Run it locally
 1. Install ```mongodb```
 2. Create a cloudinary account to get an API key and secret code
