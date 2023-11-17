@@ -35,7 +35,7 @@ All the data will pe persistent and is stored in the awazon cloud.
 ## Screenshots
 
 ### Home Page
-![alt text](https://github.com/yashpd6634/Yelpcamp/blob/master/screenshots/HomePage.png?raw=true)
+![HomePage screenshot](/screenshots/HomePage.png)
 
 ## Run it locally
 1. Install ```mongodb```
